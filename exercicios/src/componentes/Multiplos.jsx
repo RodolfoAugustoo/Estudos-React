@@ -5,3 +5,5 @@ export const BoaTarde = props =>
 
 export const BoaNoite = props =>
     <h1>Boa noite {props.name}!</h1>
+
+export default { BoaTarde, BoaNoite }
